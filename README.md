@@ -1,6 +1,6 @@
 # cse210-student-template
 My name is Michael Nosakhare Ehigie 
-This is the starter code for students in CSE 210.
+
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
