@@ -99,3 +99,8 @@ public class Program
         return scriptures;
     }
 }
+
+
+// Showing Creativity and Exceeding Requirements:
+// To show creativity and exceed require I made the program to load scriptures 
+//from a file which I named Scriptures.txt
